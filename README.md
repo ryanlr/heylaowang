@@ -1,6 +1,6 @@
 # heylaowang
 
-The front page of **heylaowang.com** (老王｜聊科技，聊生活，一起看世界), as a static GitHub Pages site:
+The front page of **heylaowang.com** (老王｜经常爬山，也聊股票和 AI), as a static GitHub Pages site:
 https://ryanlr.github.io/heylaowang/
 
 It replaces the page that a CloudFront Function used to generate on every request. The HTML is
